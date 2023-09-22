@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 인프라 엔지니어로 성장해나가는 고재민입니다! 👋
 
 <!--
 **Jaemin-kr/Jaemin-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
